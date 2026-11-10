@@ -1,0 +1,14 @@
+.gradle/
+.gradle-validation/
+.idea/
+.kotlin/
+local.properties
+**/build/
+*.iml
+
+supervisor/data/
+**/bin/
+**/obj/
+server/BootstrapCredentials.txt
+server/*.log
+**/evidence/
